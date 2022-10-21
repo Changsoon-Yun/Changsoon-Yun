@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changsoon-Yun&layout=compact&theme=dark)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprinh658)](https://solved.ac/sprinh658/)
+<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprinh658)](https://solved.ac/sprinh658/) -->
 
 # 💪Skills
 ### Platforms & Languages
