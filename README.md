@@ -15,15 +15,7 @@
 
 2021.06 ~ 2021.10 : Line Computer art Academy, UI/UX Web Publisher curriculum
 
-
-## Github Stats
-![Changsoon-Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changsoon-Yun&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changsoon-Yun&layout=compact&theme=dark)
-
-<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprinh658) -->
-
-## Skills
+### Skills
 
 <div> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
@@ -37,8 +29,12 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-  
-  
- 
 </div>
+
+#### Etc...
+![Changsoon-Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changsoon-Yun&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changsoon-Yun&layout=compact&theme=dark)
+
+<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprinh658) -->
 </div>
