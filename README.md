@@ -6,6 +6,15 @@
 안녕하세요 프론트엔드개발을 공부하고있습니다.<Br />
 뭐든 배우려는 자세로 학습에 임하고 있습니다.
 
+### 💼 Career
+2022.11 ~ : Frontend, Creative-lab
+
+2022.06 ~ 2022.10 : BootCamp HangHae99, Sparta coding club, React curriculum
+
+2021.11 ~ 2022.02 : UI/UX Web Publisher, Pixel Software
+
+2021.06 ~ 2021.10 : Line Computer art Academy, UI/UX Web Publisher curriculum
+
 
 ## Github Stats
 ![Changsoon-Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changsoon-Yun&show_icons=true&theme=dark)
