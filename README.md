@@ -32,9 +32,9 @@
 </div>
 
 #### Etc...
-![Changsoon-Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changsoon-Yun&show_icons=true&theme=dark)
+<!-- ![Changsoon-Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changsoon-Yun&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changsoon-Yun&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changsoon-Yun&layout=compact&theme=dark) -->
 
 <!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprinh658) -->
 </div>
