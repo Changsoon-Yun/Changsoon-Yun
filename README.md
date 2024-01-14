@@ -8,7 +8,7 @@
 
 
 ### 💼 Career
-2022.11 ~ : Frontend, Creative-lab
+2022.11 ~ 2022.07: Frontend, Creative-lab
 
 2022.06 ~ 2022.10 : BootCamp HangHae99, Sparta coding club, React curriculum
 
