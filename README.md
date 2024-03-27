@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 </div>
 
-#### Etc...
+<!-- #### Etc... -->
 <!-- ![Changsoon-Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changsoon-Yun&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changsoon-Yun&layout=compact&theme=dark) -->
