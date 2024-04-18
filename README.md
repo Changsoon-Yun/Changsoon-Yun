@@ -9,6 +9,8 @@
 
 
 ### 💼 Career
+2024.04 ~ : Frontend, Catbell Company
+
 2022.11 ~ 2023.07: Frontend, Creative-lab
 
 2022.06 ~ 2022.10 : BootCamp HangHae99, Sparta coding club, React curriculum
