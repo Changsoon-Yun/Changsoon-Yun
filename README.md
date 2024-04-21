@@ -1,7 +1,7 @@
 <div align=center>
 
 
-### 👋Introduction
+<!-- ### 👋Introduction
 
 안녕하세요
 
@@ -18,6 +18,7 @@
 2021.11 ~ 2022.02 : UI/UX Web Publisher, Pixel Software
 
 2021.06 ~ 2021.10 : Line Computer art Academy, UI/UX Web Publisher curriculum
+-->
 
 ### Skills
 
