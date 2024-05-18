@@ -21,6 +21,7 @@
 2021.06 ~ 2021.10 : Line Computer art Academy, UI/UX Web Publisher curriculum
 -->
 
+
 ### Skills
 
 <div> 
