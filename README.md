@@ -19,7 +19,7 @@
 2021.06 ~ 2021.10 : Line Computer art Academy, UI/UX Web Publisher curriculum
 -->
 
-
+<!--
 ### Skills
 
 <div> 
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 </div>
+-->
 
 <!-- #### Etc... -->
 <!-- ![Changsoon-Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changsoon-Yun&show_icons=true&theme=dark)
